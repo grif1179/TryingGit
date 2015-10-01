@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type = "text/css" rel="stylesheet" href="Grant'sMainPageStylesheet.css"/>
+		<link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+	 <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		
+		
+		
+		<title>Grant the Website</title>
+	</head>
+	<body>
+	<div class="content">
+		<header>
+				<div class = "nav nav-pills">
+					<div class = "container">
+						<ul class = "pull-left">
+							<li><a href="Grant'sMainPage.html"><img src="Grant.gif"></a></lI>
+							<li><a href="Grant'sMainPage.html">Home</a></li>
+							<li><a href="Grant'sVideoPage.html">Videos</a></li>
+							<li><a href="Grant'sBlogPage.html">Blog</a></li>
+							<li><a href="Grant'sStuffPage.html">Stuff</a></li>
+							<li><a href="Grant'sInfoPage.html">Info</a></li>
+						</ul>
+					</div>
+				</div>
+		</header>
+		<section>
+			
+		</section>
+		<footer>
+			<div id="wrapper">
+				<p>&copy;2015 Grant Park</p>
+			</div>
+		</footer>
+	</div>
+	</body>
+</html>
+	
